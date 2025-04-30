@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "bootstrap-italia/dist/css/bootstrap-italia.min.css";
+
+html,
+body {
+    @apply overflow-x-hidden;
+}

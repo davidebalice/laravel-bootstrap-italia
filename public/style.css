@@ -1,0 +1,17 @@
+body {
+    overflow-x: hidden;
+}
+.rounded-icon {
+    border-radius: 50%;
+    border: none;
+    width: 40px;
+    height: 40px;
+    margin-left: 12px;
+    font-weight: bold;
+}
+
+.search-icon {
+    width: 22px;
+    height: 22px;
+    font-weight: bold;
+}
