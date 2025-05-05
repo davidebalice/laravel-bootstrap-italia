@@ -40,7 +40,7 @@
               </div>
             </div>
             <div class="it-access-top-wrapper">
-              <a class="btn btn-primary btn-sm" href="#">Accedi</a>
+              <a class="btn btn-primary btn-sm" href="/login">Accedi</a>
             </div>
           </div>
         </div>

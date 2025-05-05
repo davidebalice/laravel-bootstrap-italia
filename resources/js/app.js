@@ -1,3 +1,7 @@
-import "bootstrap-italia/dist/css/bootstrap-italia.min.css";
-import "bootstrap-italia/dist/js/bootstrap-italia.bundle.min.js";
-import "./bootstrap";
+import './bootstrap';
+
+import Alpine from 'alpinejs';
+
+window.Alpine = Alpine;
+
+Alpine.start();
