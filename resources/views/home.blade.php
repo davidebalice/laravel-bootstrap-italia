@@ -27,7 +27,7 @@
               nunc mi ipsum faucibus.
             </p>
             <div class="it-btn-container">
-              <a class="btn btn-sm btn-secondary" href="#">Label button</a>
+              <a class="btn btn-sm btn-primary" href="#">Label button</a>
             </div>
           </div>
         </div>
